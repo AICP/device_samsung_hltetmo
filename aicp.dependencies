@@ -15,8 +15,8 @@
     "branch":      "lp5.0"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_samsung_klte",
-    "target_path": "kernel/samsung/klte",
+    "repository":  "CyanogenMod/android_kernel_samsung_hlte",
+    "target_path": "kernel/samsung/hlte",
     "branch":      "cm-12.0"
   },
   {
